@@ -30,3 +30,4 @@
 ::kill::kil
 ::owned::0wnd
 ::yourself::urself
+::teach::teechs
