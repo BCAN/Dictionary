@@ -20,3 +20,4 @@
 ::plox::pls
 ::plis::pls
 ::pls::pls
+::dictionary::dikshunary
