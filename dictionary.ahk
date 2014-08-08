@@ -29,3 +29,4 @@
 ::dead::ded
 ::kill::kil
 ::owned::0wnd
+::yourself::urself
