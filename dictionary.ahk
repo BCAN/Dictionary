@@ -35,3 +35,8 @@
 ::work::twerk
 ::working::twerking
 ::worked::twerked
+::cause::cuz
+::nope::nop
+::that::dat
+::the::duh
+::super::supr
