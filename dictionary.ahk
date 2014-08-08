@@ -1,5 +1,5 @@
 ::forever::5ever
-::banned::band
+::banned::b&
 ::mistake::mistaco
 ::youre::ur
 ::you::u
@@ -21,3 +21,4 @@
 ::plis::pls
 ::pls::pls
 ::dictionary::dikshunary
+::harder::hrdr
