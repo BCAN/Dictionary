@@ -31,3 +31,7 @@
 ::owned::0wnd
 ::yourself::urself
 ::teach::teechs
+::what::wat
+::work::twerk
+::working::twerking
+::worked::twerked
