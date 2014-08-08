@@ -22,3 +22,10 @@
 ::pls::pls
 ::dictionary::dikshunary
 ::harder::hrdr
+::trolled::tr0led
+::wrecked::rkt
+::faggot::fgat
+::die::di
+::dead::ded
+::kill::kil
+::owned::0wnd
